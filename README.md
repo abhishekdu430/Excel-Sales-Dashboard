@@ -47,7 +47,7 @@ Excel-Sales-Dashboard/
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](assets/dashboard-preview.png)
+![Dashboard Preview](assets/Sales_dashboard-preview.png)
 
 ---
 
