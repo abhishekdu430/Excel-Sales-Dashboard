@@ -53,7 +53,8 @@ Excel-Sales-Dashboard/
 
 ## 📌 How to Use
 1. Download or clone the repository  
-2. Open `Excel_Sales_Dashboard.xlsx 
+2. Open 📥 [Download Excel Dashboard](Excel_Sales_Dashboard.xlsx)
+ 
 3. Use slicers to filter by country, market, or year  
 4. Analyze KPIs and charts for insights  
 
