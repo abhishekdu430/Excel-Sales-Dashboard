@@ -1,5 +1,5 @@
 
-# 📊 Excel Sales Dashboard
+# 📊 Sales Dashboard
 
 An interactive **Excel Sales Dashboard** project created to analyze sales performance, profit trends, customer behavior, and regional insights using Excel analytics tools.
 
